@@ -703,8 +703,10 @@ margin-left: -15px; */
 }
 
 .form-control {
-    font-weight: 100;
+    font-weight: 25px;
     font-family: "Roboto", sans-serif !important;
+    box-shadow: none !important;
+    font-size:300;
 }
 
 .contact-form {
@@ -737,9 +739,13 @@ margin-left: -15px; */
 .contact-media {
     margin-top: 20px;
 }
+.rigth_side_form{
+    margin-left: 50px;
+}
 .light-color{
     color:#8a8a8a;
     font-family: "Roboto", sans-serif !important;
+    /* font-size:13px */
 }
 .contact-info__icon{
     color: #8f9195;
